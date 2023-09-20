@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24d6423b.css",
+    "main.js": "/static/js/main.a4356124.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/hero-img1.png": "/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/testimonial01.png": "/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.24d6423b.css.map": "/static/css/main.24d6423b.css.map",
+    "main.a4356124.js.map": "/static/js/main.a4356124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d6423b.css",
+    "static/js/main.a4356124.js"
+  ]
+}
