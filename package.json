@@ -1,6 +1,7 @@
 {
   "name": "online-learning-platfrom",
   "version": "0.1.0",
+  "homepage": "https://nikhil-sen18.github.io/online-learning-platfrom",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
