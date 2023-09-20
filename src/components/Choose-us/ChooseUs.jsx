@@ -16,13 +16,16 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Why Choose Us</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+                Choosing Learners as your partner in learning is an investment
+                in your personal and professional growth that sets you on a path
+                to success. Here's why thousands of learners choose us: Diverse
+                Learning Universe: We offer a vast and varied selection of
+                courses, ensuring that you'll find the perfect fit for your
+                learning journey. From business and technology to the arts and
+                sciences, our extensive library covers it all. Quality, Always:
+                Our commitment to excellence shines through in every course. We
+                collaborate with top educators and industry experts to bring you
+                high-quality content that's both informative and engaging.
               </p>
             </div>
           </Col>

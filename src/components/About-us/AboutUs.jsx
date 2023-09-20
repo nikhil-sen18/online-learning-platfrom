@@ -20,9 +20,10 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                At Learners, we're more than just an online learning platform;
+                we're a dynamic community of lifelong learners, educators, and
+                innovators united by a shared passion for knowledge and personal
+                growth.
               </p>
 
               <div className="about__counter">
